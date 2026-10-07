@@ -1,0 +1,20 @@
+[33mcommit e1ebe7e00117cc4b036ff8811f6baeac3fd03c9f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Si1ny <giah5845@gmail.com>
+Date:   Wed Oct 7 16:47:41 2026 +0700
+
+    second
+
+ .gitignore                       | 30 [32m++++++++++++++++++++[m
+ .idea/.gitignore                 | 10 [32m+++++++[m
+ .idea/misc.xml                   |  6 [32m++++[m
+ .idea/modules.xml                |  8 [32m++++++[m
+ .idea/vcs.xml                    |  7 [32m+++++[m
+ baitap7_10.iml                   | 11 [32m++++++++[m
+ src/Bai1                         |  1 [32m+[m
+ src/Bt2/Main.java                | 59 [32m++++++++++++++++++++++++++++++++++++++++[m
+ src/Bt3/Main.java                | 15 [32m++++++++++[m
+ src/Bt3/Order.java               | 20 [32m++++++++++++++[m
+ src/Bt3/PaymentMethod.java       | 21 [32m++++++++++++++[m
+ src/Bt3/phuongThucThanhToan.java | 46 [32m+++++++++++++++++++++++++++++++[m
+ src/Main.java                    |  0
+ 13 files changed, 234 insertions(+)
